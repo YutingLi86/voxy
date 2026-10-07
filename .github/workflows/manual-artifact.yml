@@ -27,4 +27,3 @@ jobs:
         with:
           name: voxy-artifacts
           path: collected/*.jar
-          archive: false
